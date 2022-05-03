@@ -18,13 +18,13 @@ Acesse e analise esses dados para responder a algumas perguntas:
 5. Faça uma lista com os clientes que desistiram de comprar o ingresso com a AT, a
 soma do valor que foi gasto durante os shows e quais shows eles desistiram de
 comprar. Usar para resposta o esquema abaixo:
-'''
+```
 {
 "nome": <str>,
 "gastos": <float>,
 "shows": [<str>]
 }
-'''
+```
 Algumas considerações:
 - A tabela Ingressos contém todas as tentativas de compra de ingresso com a
 Amazing Tickets. Um cliente ainda pode ter comprado o ingresso com
